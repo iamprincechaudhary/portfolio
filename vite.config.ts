@@ -6,5 +6,5 @@ export default defineConfig({
   optimizeDeps: {
     exclude: ['lucide-react'],
   },
-  base: '/portfolio/',  // Adjust the base URL for GitHub Pages
+  base: '/',  
 });
