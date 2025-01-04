@@ -28,7 +28,7 @@ This portfolio reflects my passion for coding 💻, problem-solving 🧩, and co
 ---
 
 ## 🚀 **How to Access**
-Visit the live website here: [iamprincechaudhary.github.io/porfolio/](https://iamprincechaudhary.github.io/portfolio/) 🌐
+Visit the live website here: [princechaudhary.com](https://princechaudhary.com.np/) 🌐
 
 ---
 
@@ -95,6 +95,6 @@ npm run preview
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://iamprincechaudhary.github.io/portfolio//)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://princechaudhary.com.np/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prince-chaudhary-06b20024a/)
 
