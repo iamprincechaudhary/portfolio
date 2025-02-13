@@ -26,4 +26,4 @@ dist-ssr
 /.history/
 
 # Config files
-src/config/emailConfig.ts
+src/config/emailConfig.tsS
